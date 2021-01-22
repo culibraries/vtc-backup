@@ -9,3 +9,6 @@ The script is executed daily at 2:15 AM using a Windows Scheduler task.
 
 ### Credits
 The script was written by Fred Schumacher (@fwschumacher).
+
+### Addendum
+The use of VTC was discontinued in January 2021.
